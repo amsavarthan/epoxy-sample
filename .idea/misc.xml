@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.113" />
+        <entry key="app/src/main/res/drawable/bg_overlay.xml" value="0.113" />
+        <entry key="app/src/main/res/drawable/bg_placeholder.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_chevron_right_24.xml" value="0.113" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.113" />
+        <entry key="app/src/main/res/drawable/ic_profile_image.xml" value="0.113" />
+        <entry key="app/src/main/res/drawable/ic_round_movie_24.xml" value="0.172" />
+        <entry key="app/src/main/res/drawable/ic_round_play_arrow_24.xml" value="0.113" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.37552083333333336" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.37552083333333336" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_more.xml" value="0.30825138948268493" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.37552083333333336" />
+        <entry key="app/src/main/res/layout/item_movie.xml" value="0.3682328907048008" />
+        <entry key="app/src/main/res/layout/item_movie_card.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_movie_carousel.xml" value="0.24074074074074073" />
+        <entry key="app/src/main/res/layout/item_section_title.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/view_binding_holder_message_item.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/view_binding_holder_recently_active_item.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/view_holder_header_item.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/view_holder_message_item.xml" value="0.408203125" />
+        <entry key="app/src/main/res/layout/view_holder_recently_active_item.xml" value="0.3672114402451481" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.19010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
